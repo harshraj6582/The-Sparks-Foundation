@@ -1,5 +1,8 @@
 # basicbanking
 This is my Internship Task which I have been assigned by The Sparks Foundation, #GRIPOCTOBER22
+
+
+
 1-Login Page: This is the initial page where users can enter their credentials to access their banking accounts. It typically includes input fields for username and password, along with a login button.
 
 2-Dashboard: After successful login, the dashboard page provides an overview of the user's accounts and account balances. It can display account cards or a table showing the account names, balances, and other relevant information.
